@@ -4,14 +4,13 @@ UI Clone - Pinterest (Homepage)
 
 <p align="center"><a href="https://pinterest.com">Pinterest Homepage</a> UI clone for study purposes.</p>
 
-
 <hr>
 
 ## Participants
 
-[<img src="https://avatars0.githubusercontent.com/u/37252638?s=460&u=13ae26df788cf8f87c47e5b89a30a320cd5c9848&v=4"/>](https://github.com/lucastssb)
+[<img src="https://avatars0.githubusercontent.com/u/37252638?s=460&u=13ae26df788cf8f87c47e5b89a30a320cd5c9848&v=4" width="75px;/>](https://github.com/lucastssb)
 
-[Guilherme Rodz](https://github.com/lucastssb)
+[Lucas Barbosa](https://github.com/lucastssb)
 
 ## Resources
 
